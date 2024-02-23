@@ -1,7 +1,10 @@
 ﻿Introdução ao Python: Uma Visão Geral
 
 Descrição:
-Python é uma linguagem de programação de alto nível, de propósito geral e de código aberto, conhecida por sua sintaxe simples e legibilidade. É amplamente utilizada em uma variedade de domínios devido à sua versatilidade e facilidade de aprendizado. Python é uma linguagem de programação poderosa e versátil, adequada para uma variedade de aplicações. Sua simplicidade e eficácia a tornam uma escolha popular entre programadores iniciantes e experientes em todo o mundo.
+Python é uma linguagem de programação de alto nível, de propósito geral e de código aberto, conhecida por sua sintaxe simples e legibilidade. 
+É amplamente utilizada em uma variedade de domínios devido à sua versatilidade e facilidade de aprendizado. Python é uma linguagem de programação 
+poderosa e versátil, adequada para uma variedade de aplicações. Sua simplicidade e eficácia a tornam uma escolha popular entre programadores iniciantes e 
+xperientes em todo o mundo.
 
 Para que serve:
 Python é utilizado para uma ampla gama de finalidades, incluindo:
